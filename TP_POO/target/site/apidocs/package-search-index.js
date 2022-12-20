@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.mycompany.tp_poo"},{"l":"Comparators"}];updateSearchResults();
